@@ -11,6 +11,7 @@ The project covers computer fundamentals, terminal operations, operating systems
 ## Mission Index
 
 | Mission | Topic | Folder |
+|---|---|---|
 | 00 | Workspace Setup | [Mission 00](mission-00-setup/) |
 | 01 | Computer Fundamentals | [Mission 01](mission-01-computer-basics/) |
 | 02 | Terminal Operations | [Mission 02](mission-02-terminal/) |
