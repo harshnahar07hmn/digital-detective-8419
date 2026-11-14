@@ -7,6 +7,7 @@ This mission involved setting up my development environment and preparing the Gi
 ## Tools & Environment
 
 | Tool | Details |
+|---|---|
 | Operating System | macOS |
 | Code Editor | Visual Studio Code |
 | Version Control | Git 2.55.0 |
