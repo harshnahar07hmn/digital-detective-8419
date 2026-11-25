@@ -41,3 +41,8 @@ Each mission has its own folder containing the relevant documentation, code, and
 ## Submission Notes
 
 I will commit each mission separately so that the progress and changes made throughout the assignment can be tracked through Git.
+
+## My Learning
+- Gained hands-on fluency navigating directories, inspecting file metadata, and chaining commands with flags and pipes in the macOS Terminal.
+- Understood how the operating system isolates running processes using unique PIDs and enforces file security through read, write, and execute permissions.
+- Learned how numbers and text are stored at the binary level and built a Python CLI converter to translate decimal inputs into binary and hexadecimal.
